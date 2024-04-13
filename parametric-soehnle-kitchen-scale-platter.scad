@@ -1,5 +1,5 @@
 /*
-Soehnle kitchen scale platter
+Paramteric Soehnle kitchen scale platter
 
 Copyright 2024 nomike[AT]nomike[DOT]com
 

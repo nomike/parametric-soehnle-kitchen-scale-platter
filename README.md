@@ -8,4 +8,4 @@ It just snaps onto the adaptor with little force but is held strong enough to no
 
 #### GitHub
 
-<https://github.com/nomike/soehnle_kitchen_scale_platter>
+<https://github.com/nomike/parametric-soehnle-kitchen-scale-platter>
